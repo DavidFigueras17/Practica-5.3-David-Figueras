@@ -1,3 +1,46 @@
 main{
-  margin-top: 300px;
+  margin-top: 100px;
+}
+img{
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  
+}
+
+.cat-list-text{
+  margin-left: 100px;
+}
+
+.textoimg{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-80%, -20%);
+    color:white;
+    opacity: 1;
+    font-size: 15px;
+    text-transform: uppercase;
+  
+}
+
+.imgprod{
+  filter: blur(2px);
+  
+}
+
+#producciones{
+  padding: 20px;
+  
+}
+
+.prod{
+  width: 1070px;
+  height: 700px;
+  border: seagreen 2px solid;
+}
+
+.imgprods{
+  
+  
 }

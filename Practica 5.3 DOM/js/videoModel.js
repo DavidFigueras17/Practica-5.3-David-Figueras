@@ -527,9 +527,9 @@ let VideoSystem = (function () { //La función anónima devuelve un método getI
                 this.#name = name;
                 this.addUser(this.#defaultUser);
                 this.addCategory(this.#defaultCategory);
-                this.addActors(this.#defaultActor);
-                this.addDirectors(this.#defaultDirectors);
-                this.addProds(this.#defaultProd);
+                // this.addActors(this.#defaultActor);
+                // this.addDirectors(this.#defaultDirectors);
+                // this.addProds(this.#defaultProd);
 
             }
 
